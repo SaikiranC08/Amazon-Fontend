@@ -14,6 +14,12 @@ cd amazon-frontend-clone
 
 3.Open index.html in your preferred web browser.
 
+Screenshot-
+![Screenshot 2024-08-03 164115](https://github.com/user-attachments/assets/95763c34-713c-4576-a11e-47adee0e71f7)
+![Screenshot 2024-08-03 164217](https://github.com/user-attachments/assets/46af0a16-29f8-42bf-aab6-752f7cf9f926)
+![Screenshot 2024-08-03 164333](https://github.com/user-attachments/assets/ac0b6b4c-f782-4720-943d-1db31fb1dfa4)
+
+
 Usage-
 Simply open the project in a web browser to view the Amazon frontend clone. You can navigate through the pages as you would on the actual Amazon website.
 
@@ -26,3 +32,4 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 License-
 This project is licensed under the MIT License - see the LICENSE file for details.
+
